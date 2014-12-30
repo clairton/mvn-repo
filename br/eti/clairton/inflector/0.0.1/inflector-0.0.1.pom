@@ -38,23 +38,32 @@
 			</extension>
 		</extensions>
 	</build>
-	<distributionManagement>
-		<repository>
-			<id>mvn-repo</id>
-			<name>Your Repo Name</name>
-			<url>git:releases://git@github.com:clairton/mvn-repo.git</url>
-		</repository>
-		<snapshotRepository>
-			<id>mvn-repo-snapshot</id>
-			<name>Your Snapshot Repo Name</name>
-			<url>git:snapshots://git@github.com:clairton/mvn-repo-snapshot.git</url>
-		</snapshotRepository>
-	</distributionManagement>
 
-	<pluginRepositories>
-		<pluginRepository>
-			<id>synergian-repo</id>
-			<url>https://raw.github.com/synergian/wagon-git/releases</url>
-		</pluginRepository>
-	</pluginRepositories>
+	<profiles>
+		<profile>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<id>mvn-repo</id>
+			<pluginRepositories>
+				<pluginRepository>
+					<id>synergian-repo</id>
+					<url>https://raw.github.com/synergian/wagon-git/releases</url>
+				</pluginRepository>
+			</pluginRepositories>
+			<distributionManagement>
+				<repository>
+					<id>mvn-repo</id>
+					<name>Your Repo Name</name>
+					<url>git:releases://git@github.com:clairton/mvn-repo.git</url>
+				</repository>
+				<snapshotRepository>
+					<id>mvn-repo-snapshot</id>
+					<name>Your Snapshot Repo Name</name>
+					<url>git:snapshots://git@github.com:clairton/mvn-repo.git</url>
+				</snapshotRepository>
+			</distributionManagement>
+		</profile>
+
+	</profiles>
 </project>
