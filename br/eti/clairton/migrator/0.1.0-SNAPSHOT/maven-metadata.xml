@@ -3,4 +3,18 @@
   <groupId>br.eti.clairton</groupId>
   <artifactId>migrator</artifactId>
   <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150209.164129</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150209164129</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-20150209.164129-1</value>
+        <updated>20150209164129</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
 </metadata>
