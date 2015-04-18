@@ -6,6 +6,10 @@
     <versions>
       <version>0.1.0-SNAPSHOT</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20150418113031</lastUpdated>
+=======
+    <lastUpdated>20150416160938</lastUpdated>
+>>>>>>> c27e6ba67dbab3154692a3bed7ae98a34ccec0f3
   </versioning>
 </metadata>
