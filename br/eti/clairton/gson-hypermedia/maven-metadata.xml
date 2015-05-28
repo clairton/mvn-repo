@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.eti.clairton</groupId>
+  <artifactId>gson-hypermedia</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150528214631</lastUpdated>
+  </versioning>
+</metadata>
