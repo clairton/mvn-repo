@@ -20,6 +20,12 @@
         <value>0.5.0-20150625.152217-1</value>
         <updated>20150625152217</updated>
       </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.5.0-20150625.152217-1</value>
+        <updated>20150625152217</updated>
+      </snapshotVersion>
     </snapshotVersions>
   </versioning>
 </metadata>
