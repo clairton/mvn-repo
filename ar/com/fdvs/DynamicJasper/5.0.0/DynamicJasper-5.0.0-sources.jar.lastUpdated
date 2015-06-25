@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 09:31:17 BRT 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1434457877141
+https\://api.bitbucket.org/1.0/repositories/maxicredito/mvn-repo/raw/releases/.lastUpdated=1434457876626
+@default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1434457875032
+https\://raw.github.com/clairton/mvn-repo/releases/.lastUpdated=1434457874357
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact ar.com.fdvs\:DynamicJasper\:jar\:sources\:5.0.0 from/to fdvsolution.public (http\://archiva.fdvs.com.ar/repository/public1/)\: Failed to transfer http\://archiva.fdvs.com.ar/repository/public1/ar/com/fdvs/DynamicJasper/5.0.0/DynamicJasper-5.0.0-sources.jar. Error code 500, Could not create working directory for this request
+https\://raw.github.com/clairton/mvn-repo/releases/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://api.bitbucket.org/1.0/repositories/maxicredito/mvn-repo/raw/releases/.error=
