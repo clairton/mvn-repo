@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.eti.clairton</groupId>
+  <artifactId>ds-test</artifactId>
+  <version>0.2.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150628.012403</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150628012403</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.0-20150628.012403-1</value>
+        <updated>20150628012403</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.0-20150628.012403-1</value>
+        <updated>20150628012403</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
