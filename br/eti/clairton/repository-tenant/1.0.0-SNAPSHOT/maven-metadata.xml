@@ -24,7 +24,7 @@
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>1.0.0-20160815.111856-3</value>
-        <updated>20160815111856</updated>
+        <updated>20160815111902</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
