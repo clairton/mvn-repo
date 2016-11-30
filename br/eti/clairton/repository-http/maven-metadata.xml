@@ -3,7 +3,7 @@
   <groupId>br.eti.clairton</groupId>
   <artifactId>repository-http</artifactId>
   <versioning>
-    <release>1.2.5</release>
+    <release>1.2.6</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -11,7 +11,8 @@
       <version>1.2.3</version>
       <version>1.2.4</version>
       <version>1.2.5</version>
+      <version>1.2.6</version>
     </versions>
-    <lastUpdated>20161122150503</lastUpdated>
+    <lastUpdated>20161130105343</lastUpdated>
   </versioning>
 </metadata>
