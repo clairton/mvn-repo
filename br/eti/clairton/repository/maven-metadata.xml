@@ -3,7 +3,7 @@
   <groupId>br.eti.clairton</groupId>
   <artifactId>repository</artifactId>
   <versioning>
-    <release>2.11.1</release>
+    <release>2.11.2-SNAPHOST</release>
     <versions>
       <version>0.1.0</version>
       <version>0.2.0</version>
@@ -57,7 +57,8 @@
       <version>2.9.10</version>
       <version>2.11.0</version>
       <version>2.11.1</version>
+      <version>2.11.2-SNAPHOST</version>
     </versions>
-    <lastUpdated>20180905115232</lastUpdated>
+    <lastUpdated>20180906113708</lastUpdated>
   </versioning>
 </metadata>
